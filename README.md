@@ -1,3 +1,7 @@
+<p align="center">
+   <img width="234" height="123" alt="download" src="https://github.com/user-attachments/assets/04d96b25-bd41-4d4e-a8ff-9e2b56a56aa6" />
+</p>
+
 <h1 align="center">Universidad Nacional de Colombia</h1>
 <h3 align="center">Sede Medellín — Ingeniería de Sistemas</h3>
 
